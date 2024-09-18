@@ -7,5 +7,10 @@ html {
 
 .headers {
     color: #4d3319;
+    font-size: 18px;
+}
+
+#h1 {
+    font-size: 36px;
 }
 
