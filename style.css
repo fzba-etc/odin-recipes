@@ -1,20 +1,24 @@
 /* Stylesheet for my recipes page */
 
+/* the entire webpage */
 html {
     background-color: #fcffef;
     font-family: Georgia, 'Trebuchet MS', serif;
 }
 
+/* all the headers */
 .headers {
     color: #4d3319;
     font-size: 18px;
 }
 
+/* the title header specifically for each page */
 #h1 {
     font-size: 36px;
     text-align: center;
 }
 
+/* italicized text categorizing recipe items */
 em {
     font-weight: bold;
 }
