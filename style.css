@@ -1,5 +1,9 @@
 /* Stylesheet for my recipes page */
 
+html {
+    background-color: #fcffef;
+}
+
 h1 {
     color: #4d3319;
 }
