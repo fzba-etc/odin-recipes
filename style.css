@@ -1,9 +1,11 @@
 /* Stylesheet for my recipes page */
 
 /* the entire webpage */
-html {
+* {
     background-color: #fcffef;
     font-family: Georgia, 'Trebuchet MS', serif;
+    /* outline: 2px solid red; */
+    
 }
 
 /* all the headers */
@@ -23,3 +25,15 @@ em {
     font-weight: bold;
 }
 
+#subtitle {
+    text-align: center;
+}
+
+.recipes-list {
+    display: flex;
+}
+
+.recipes-list .recipe-item {
+    padding: 20px;
+    text-align: center;
+}
